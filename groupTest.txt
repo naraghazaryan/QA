@@ -1,1 +1,4 @@
-Vardan - added new line 1
+changes from Nara,,,Vardan - added new line 1
+changes for line 2 NNN
+changes for line 3 NNN
+end of all changes    NNN
