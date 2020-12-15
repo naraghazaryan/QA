@@ -1,4 +1,4 @@
-changes from Nara,,,Vardan - added new line 1
+changed Meline: changes from Nara,,,Vardan - added new line 1
 changes for line 2 NNN
 changes for line 3 NNN
-end of all changes    NNN
+can't add a new line (Meline) end of all changes    NNN
